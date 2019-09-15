@@ -38,7 +38,7 @@ li img {
   font-family: "Reem Kufi", sans-serif;
   font-weight: bold;
 }
-#logo {
+#home {
   width: 20%;
   float: left;
   font-family: "Berkshire Swash", cursive;
@@ -47,7 +47,7 @@ li img {
   height: 100px;
   font-size: 20px;
 }
-#home {
+#name {
   font-family: "Reem Kufi", sans-serif;
   font-size: 50px;
   margin-top: 60px;
@@ -81,28 +81,33 @@ li img {
 }
 .pj {
   width: 100%;
-  height: 800px;
+  height: 550px;
   background-color: green;
   clear: both;
   text-align: center;
-}
-.pjlinks {
-  text-align: center;
-}
-.pj ul {
-  margin: 0;
-  padding: 0;
 }
 .pj p {
   text-align: center;
   font-weight: bold;
 }
+.pj .links p {
+  width: 90%;
+  padding-left: 20px;
+}
+#hw,
+#fw,
+#pw,
+#rw {
+  width: 25%;
+  float: left;
+  margin-top: 20px;
+}
 #hw img,
 #fw img,
 #pw img,
 #rw img {
-  height: 250px;
-  width: 250px;
+  height: 200px;
+  width: 200px;
 }
 .lg {
   width: 100%;
@@ -141,4 +146,11 @@ li img {
 #foot ul li {
   float: left;
   padding-left: 100px;
+}
+.back img {
+  clear: both;
+  text-align: right;
+  height: 40px;
+  width: 40px;
+  margin: 60px 5px 0 345px;
 }
