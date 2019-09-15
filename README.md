@@ -24,9 +24,9 @@ Only basic HTML & CSS was used.
 
 ## Support and contact details
 
-Feel free to contact me at Koshin-Mohamed@github.com.
+Feel free to contact me at koshin.mohamed@gmail.com.
 
 ### License
 
 _MIT_
-Copyright (c) 2019 **Koshin Mohamed** 
+Copyright (c) 2019 **Koshin Mohamed**
